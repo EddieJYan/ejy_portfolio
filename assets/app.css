@@ -1,0 +1,17 @@
+div {
+    /*fallback*/
+    /* background-color: #063053;
+    background-image: radial-gradient(red, green, blue, purple, orange); */
+
+}
+.red {
+    color: red
+}
+
+.bold {
+    font-weight: bold;
+}
+.ul-flex{
+    display: flex;
+}
+
